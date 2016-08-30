@@ -10,7 +10,7 @@ permalink:           /:title.html
 
 # Setup
 url:                 http://catskull.net/reflections
-baseurl:             /reflections
+baseurl:             /
 paginate:            5
 
 # About/contact
