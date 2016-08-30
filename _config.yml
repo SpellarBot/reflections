@@ -9,10 +9,7 @@ permalink:           /:title.html
 # relative_permalinks: true
 
 # Setup
-title:               Catskull.net
-tagline:             'The blog of David DeGraw'
-description:         'Catskull.net: The personal blog of David DeGraw, documenting my finds as a web developer and electrical engineering student.'
-url:                 http://catskull.net
+url:                 http://catskull.net/reflections
 baseurl:             /
 paginate:            5
 
