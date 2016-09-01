@@ -5,9 +5,9 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <div class="post index-post" onclick="window.location.href='{{ site.url + post.url }}';">
+    <div class="post index-post" onclick="window.location.href='http://catskull.net/reflections{{ post.url }}';">
       <h1 class="post-title">
-        <a href="{{ site.url + post.url }}">
+        <a href="http://catskull.net/reflections{{ post.url }}">
           {{ post.title }}
         </a>
       </h1>
@@ -16,7 +16,7 @@ title: Home
 
       {{ post.content | strip_html | truncatewords:150 }}
       <br><br>
-      <a href="{{ site.url + post.url }}">Keep reading...</a>
+      <a href="http://catskull.net/reflections{{ post.url }}">Keep reading...</a>
     </div>
   {% endfor %}
 </div>

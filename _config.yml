@@ -9,7 +9,7 @@ permalink:           /:title.html
 # relative_permalinks: true
 
 # Setup
-url:                 http://catskull.net/reflections
+url:                 http://catskull.net/
 baseurl:             /
 paginate:            5
 
