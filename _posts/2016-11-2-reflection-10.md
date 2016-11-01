@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflection #10"
-date:   2016-11-01
+date:   2016-11-02
 categories: general
 ---
 
